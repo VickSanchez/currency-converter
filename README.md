@@ -33,3 +33,4 @@ The current release was build on Java 17.
 - Bolivian Boliviano BOB
 - Brazilian Real BRL
 - Argentine Peso ARS
+- Working on more ...
